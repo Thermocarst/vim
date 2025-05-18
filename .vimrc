@@ -6,6 +6,11 @@ syntax on
 set fileformat=unix
 set encoding=UTF-8
 
+set autoindent
+set noexpandtab
+set tabstop=4
+set shiftwidth=4
+
 set cursorline
 set number
 set relativenumber
